@@ -1,0 +1,332 @@
+@media screen and (max-width : 767px){
+  #header{
+    max-width:100%;
+    height: 50px;
+    position: relative;
+  }
+  .navbar{
+    width: 100%;
+  }
+  .logo{
+    font-size: .7em;
+    margin: 8px 35px;
+  }
+  .navigation{
+    display: none;
+  }
+  #main{
+    width: 100%;
+    height: 40%;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+  }
+  .table{
+    display: table;
+    margin: 3px auto;
+  }
+  .content {
+    width: 70%;
+    height: 256px;
+    margin: 0px auto;
+    padding: 50px 20px;
+    text-align: center;
+    font-size: 1.2em;
+  }
+  .content img {
+    width: 18px;
+    height: 18px;
+    margin-right: 10px;
+}
+  .content ul{
+    margin: 5px 65px;
+    padding: 0px;
+  }
+  .content p{
+    font-size: 1.3em;
+    margin-top: -10px;
+  }
+  .content h2{
+    font-size: 2em;
+  }
+  #about_container{
+    width: 100%;
+    text-align: center;
+    display: block;
+    padding-bottom: 30px;
+
+  }
+  .about_content{
+    width: 80%;
+    height: 462px;
+    margin: 0px auto;
+    padding-top: 30px;
+    line-height: 17px;
+  }
+  .profile_pic{
+    width: 30%;
+    height: 44%;
+    margin-left: 35%;
+  }
+  .about_content img{
+    display: initial;
+    float: none;
+    width: 100%;
+
+  }
+  .aboutmeinner{
+    display: block;
+    width: 100%;
+    margin-top: 3%;
+  }
+  .aboutmeinner h2{
+    font-size: 1em;
+    line-height: 22px;
+    margin-top: 10px;
+  }
+  .aboutmeinner h4{
+    font-weight: 500;
+    font-size: 0.7em;
+  }
+  .aboutmeinner p{
+    font-size: 0.65em;
+    margin-top: 5px;
+  }
+  .progress, .progress1, .progress2{
+    width: 100%;
+    height: 18px;
+    font-size: 0.6em;
+    margin-top: 10px;
+  }
+  .develop{
+    padding:0% 0% 0% 4%;
+  }
+  .percent{
+    padding: 0% 14% 0% 0%;
+  }
+  .percent1{
+    padding: 0% 34% 0% 0%;
+  }
+  .percent2{
+    padding: 0% 25% 0% 0%;
+  }
+  #Buttons{
+    padding: 10px 0px 0px 0px;
+    margin: 0px 14px 0px 0px;
+
+  }
+  #Buttons button{
+    margin: 0px 15px;
+    font-size: 0.55em;
+    width: 83px;
+    height: 21px;
+
+  }
+
+  #services_container{
+    width: 100%;
+    margin: 0px auto;
+    padding-bottom: 15px;
+  }
+  #services_container h2{
+  text-align: center;
+  font-size: 1.5em;
+  }
+  .services_content{
+    width: 63%;
+    height: 581px;
+    margin: 0px auto;
+    text-align: center;
+    padding: 0px;
+  }
+  .serconthold{
+    width: 42%;
+    height:29%;
+    font-size: 0.55em;
+    margin: 20px 30% auto;
+    padding: 0px 10px;
+    float: initial;
+  }
+  .serconthold h3{
+    line-height: normal;
+    font-size: 2em;
+  }
+  .serconthold p{
+    font-size: 1.3em;
+  }
+  .icon_back{
+    width: 31%;
+    height: 37%;
+    background-color: initial;
+    margin-top: 2px;
+  }
+  .icon_back img{
+    width: 100%;
+    height: 100%;
+  }
+  #meg{
+    width: 100%;
+    height: 86%;
+  }
+  .serv2{
+    display: none;
+  }
+  #portfolio_container{
+    width: 100%;
+    padding-bottom: 40px;
+  }
+  #portfolio_container h2{
+    text-align: center;
+    font-size: 1.5em;
+  }
+  .portfolio_content{
+    width: 80%;
+    height: 581px;
+    margin: 0px auto;
+  }
+  .imag img{
+    width: 36%;
+    height: 80%;
+    margin: 20px 33% auto;
+    float: initial;
+  }
+  .port{
+    display: none;
+  }
+  #test_container{
+    width: 100%;
+    padding-bottom: 10px;
+  }
+  #test_container h2{
+    margin: 0px auto;
+    font-size: 1.5em;
+  }
+  .test_content{
+    width: 80%;
+    height: 180px;
+    text-align: center;
+    margin: 5px auto;
+  }
+  .test_content img {
+    margin: 0px auto;
+    width: 40px;
+  }
+  .test_content h3 {
+    font-size: 0.9em;
+    letter-spacing: normal;
+    line-height: normal;
+  }
+  .test_content h5 {
+    margin-top: 10px;
+    font-size: 0.5em;
+  }
+  .test_content p {
+    line-height: normal;
+    font-size: 0.8em;
+    margin-top: 10px;
+  }
+  .achie_container{
+    width: 100%;
+    height: 100px;
+  }
+  .achie_content{
+    width: 80%;
+    height: 95%;
+  }
+  .achie_contain{
+    width: 20%;
+    margin: 0px 10px auto;
+    font-size: 1.2em;
+  }
+  .achie_contain:last-child{
+    margin-right: 0px;
+  }
+  .achie_contain img{
+    width: 30px;
+    height: 30px;
+  }
+.achie_contain p{
+  font-size: 0.46em;
+  line-height: normal;
+  margin-top: 0px;
+  }
+  #maps{
+    width: 100%;
+    height: 250px;
+    padding-bottom: 0px;
+  }
+  #contact_container{
+    width: 100%;
+    padding: 10px;
+  }
+  #contact_container h2{
+    text-align: center;
+    font-size: 1.5em;
+  }
+  #address_tab {
+    display: block;
+    width: 40%;
+    height: 295px;
+    float: left;
+  }
+  .address {
+    width: 70%;
+    height: 95px;
+    text-align: center;
+    padding-left: 0px;
+    overflow-wrap: break-word;
+    margin-top: 10px;
+  }
+  .sam{
+    margin-top: 5px;
+  }
+  .address img{
+    width: 25px;
+    height: 25px;
+  }
+  .address h4{
+    margin-top: 0px;
+    font-size: 0.8em;
+  }
+  .address p{
+    line-height: 12px;
+    font-size: 0.79em;
+  }
+  #form_tab {
+    width: 60%;
+    height: 295px;
+    display: block;
+    float: right;
+  }
+  .contact{
+   width: 100%;
+  }
+  .contact_content{
+    width: 95%;
+    height: 295px;
+    margin-top: 0px;
+    padding: 0px 16px;
+  }
+  .contact input {
+    width: 95%;
+    height: 26px;
+    margin-top: 8px;
+  }
+.contact button{
+  margin: 15px auto;
+}
+  #mess {
+    width: 95%;
+    height: 155px;
+    margin-top: 12px;
+    border-radius: 5px;
+  }
+  .footer{
+    width: 100%;
+    height: 35px;
+    font-size: 0.7em;
+    padding: 3px;
+  }
+  .copy{
+    margin: 10px;
+  }
+}
