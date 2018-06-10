@@ -134,7 +134,6 @@
   #services_container h2{
   text-align: center;
   font-size: 1.5em;
-  padding-top: 50px;
   }
   .services_content{
     width: 80%;
@@ -183,7 +182,6 @@
     width: 100%;
     padding-bottom: 50px;
     clear: both;
-    margin-top: 50px;
   }
   #portfolio_container h2{
     text-align: center;
@@ -191,7 +189,7 @@
   }
   .portfolio_content{
     width: 95%;
-    height: 825px;
+    height: 600px;
     margin: 0px auto;
   }
   .imag li{
@@ -208,16 +206,15 @@
   }
   #test_container{
     width: 100%;
-    padding-bottom: 10px;
+    padding: 30px 0px;
   }
   #test_container h2{
     margin: 0px auto;
     font-size: 1.5em;
-    padding-top: 50px;
   }
   .test_content{
     width: 80%;
-    height: 270px;
+    height: 235px;
     text-align: center;
     margin: 5px auto;
   }
@@ -226,7 +223,7 @@
     width: 40px;
   }
   .test_content h3 {
-    font-size: 0.9em;
+    font-size: 0.7em;
     letter-spacing: normal;
     line-height: normal;
   }
@@ -271,7 +268,7 @@
   }
   #contact_container{
     width: 100%;
-    padding: 5px 0px;
+    padding: 30px 0px;
   }
   #contact_container h2{
     text-align: center;
