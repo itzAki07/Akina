@@ -242,13 +242,18 @@ padding: 1.7px 23% 0% 0%;
   margin: 2px auto;
 }
 .icon_back1 img{
-  width: 53px;
-  height: 60px;
+  width: 57px;
+  height: 59px;
   padding-top: 8px;
   margin: 2px auto;
 }
+#webd{
+  width: 55px;
+  height: 60px;
+}
 #meg{
-  width: 26%;
+  width: 60px;
+  height: 57px;
 }
 .icon_back{
   width: 50px;

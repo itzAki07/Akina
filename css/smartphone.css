@@ -129,11 +129,12 @@
   #services_container{
     width: 100%;
     margin: 0px auto;
-    padding-bottom: 200px;
+    padding-bottom: 240px;
   }
   #services_container h2{
   text-align: center;
   font-size: 1.5em;
+  margin-bottom: 30px;
   }
   .services_content{
     width: 80%;
@@ -145,7 +146,7 @@
     width: 98%;
     height: 45%;
     font-size: 0.3em;
-    margin: 10px auto;
+    margin: 20px auto;
     padding:0px 10px;
   }
   .serconthold h3{
@@ -186,10 +187,11 @@
   #portfolio_container h2{
     text-align: center;
     font-size: 1.5em;
+    margin-bottom: 30px;
   }
   .portfolio_content{
     width: 95%;
-    height: 600px;
+    height: 620px;
     margin: 0px auto;
   }
   .imag li{
@@ -199,7 +201,7 @@
   .imag img{
     width: 100%;
     height: auto;
-    margin: 10px auto;
+    margin: 20px auto;
   }
   .port{
     display: none;
