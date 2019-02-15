@@ -171,7 +171,7 @@
   }
   #portfolio_container{
     width: 100%;
-    height: 656px;
+    height: 800px;
     padding-bottom: 40px;
   }
   #portfolio_container h2{
@@ -184,9 +184,9 @@
     margin: 0px auto;
   }
   .imag img{
-    width: 36%;
+    width: 48%;
     height: 80%;
-    margin: 20px 33% auto;
+    margin: 20px auto;
     float: initial;
   }
   .port{
