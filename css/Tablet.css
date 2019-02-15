@@ -126,7 +126,7 @@
 
   #services_container{
     width: 100%;
-    height: 666px;
+    height: 720px;
     margin: 0px auto;
     padding-bottom: 15px;
   }
@@ -135,17 +135,17 @@
   font-size: 1.5em;
   }
   .services_content{
-    width: 63%;
+    width: 50%;
     height: 581px;
     margin: 0px auto;
     text-align: center;
     padding: 0px;
   }
   .serconthold{
-    width: 42%;
+    width: 100%;
     height:29%;
-    font-size: 0.55em;
-    margin: 20px 30% auto;
+    font-size: 11px;
+    margin: 20px auto;
     padding: 0px 10px;
     float: initial;
   }
