@@ -50,6 +50,7 @@
   }
   #about_container{
     width: 100%;
+    height: 555px;
     text-align: center;
     display: block;
     padding-bottom: 30px;
@@ -57,9 +58,8 @@
   }
   .about_content{
     width: 80%;
-    height: 462px;
+    height: 87%;
     margin: 0px auto;
-    padding-top: 30px;
     line-height: 17px;
   }
   .profile_pic{
@@ -76,7 +76,7 @@
   .aboutmeinner{
     display: block;
     width: 100%;
-    margin-top: 3%;
+    margin-top: 10%;
   }
   .aboutmeinner h2{
     font-size: 1em;
